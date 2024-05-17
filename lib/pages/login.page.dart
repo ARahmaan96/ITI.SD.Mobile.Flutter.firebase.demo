@@ -10,14 +10,12 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  late FirebaseAuth _auth;
   final email = TextEditingController();
   final password = TextEditingController();
 
   @override
   void initState() {
     super.initState();
-    _auth = FirebaseAuth.instance; // Initialize _auth in initState
   }
 
   Future<void> _login() async {
