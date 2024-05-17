@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618358658193",
+    "project_id": "buyitnow-8abd1",
+    "storage_bucket": "buyitnow-8abd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618358658193:android:f85a47ae2dfd86ae36db30",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-MzVS-3xyitT0MzPdcRg_LICQK60Gao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
